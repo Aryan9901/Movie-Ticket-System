@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1650731273 source:d:\c project-1\movie ticket booking system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1650731273 d:\c project-1\movie ticket booking system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1661095258 source:d:\c project-1\movie ticket booking system\mtb.c
+	"conio2.h"
+	<stdio.h>
+	<stdlib.h>
+	"mtb.h"
+
+1661095466 source:d:\c project-1\movie ticket booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<dir.h>
+	<errno.h>
+	"mtb.h"
+
+1661095421 d:\c project-1\movie ticket booking system\mtb.h
+	<time.h>
+
+1650731273 source:d:\c projects\movie ticket booking system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1650731273 d:\c projects\movie ticket booking system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1661095466 source:d:\c projects\movie ticket booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<dir.h>
+	<errno.h>
+	"mtb.h"
+
+1661095421 d:\c projects\movie ticket booking system\mtb.h
+	<time.h>
+
+1661095258 source:d:\c projects\movie ticket booking system\mtb.c
+	"conio2.h"
+	<stdio.h>
+	<stdlib.h>
+	"mtb.h"
+
